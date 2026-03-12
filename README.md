@@ -1,5 +1,3 @@
-# ECOSYNC
-Smart energy-efficient air conditioning controller
 # EcoSync – Smart Energy-Efficient Air Conditioning Controller
 
 EcoSync is a prototype smart air conditioning control system designed to improve energy efficiency by dynamically adjusting compressor speed based on real-time temperature readings.
